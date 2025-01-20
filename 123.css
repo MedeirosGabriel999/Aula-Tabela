@@ -1,0 +1,15 @@
+thead {
+    background-color: #d1fffd;
+    
+}
+table {
+    letter-spacing: 1px;
+    
+    background-color: rgb(255, 255, 255);
+}
+
+td, th {
+    border: 1px solid #969696;
+    padding: 8px 10px;
+}
+
